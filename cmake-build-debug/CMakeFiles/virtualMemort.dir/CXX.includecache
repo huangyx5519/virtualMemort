@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/hyx/ClionProjects/virtualMemort/main.cpp
+iostream
+-
+random
+-
+stdio.h
+-
+unistd.h
+-
+sstream
+-
+string
+-
+iomanip
+-
+fstream
+-
+
